@@ -8,3 +8,13 @@ up subtitles with any amount of *seconds/milliseconds*
 Here is how the GUI looks:
 
 ![GUI](/demo_images/gui.png)
+
+# How to use 
+
+Download the *JAR* from the releases, go to the folder with the console and run it with: 
+
+```
+java -jar SRTAdjuster.jar
+```
+
+Double clicking to start it **should** also work but I can't get it to work with *JavaFX* apps.
